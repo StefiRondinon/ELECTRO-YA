@@ -226,7 +226,7 @@ section form{
     position: absolute;
     top: -50px;
     left: calc(50% - 50px);
-    background: url("img/logo.jpeg"); 
+    background: url("img/logo.jpeg") no-repeat center top; 
 }
 
 .login-box h1 {
